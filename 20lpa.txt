@@ -3,3 +3,6 @@ welcome to the DEVOPS world. (kanna)
 goodbye
 thank u
 qqq
+
+final copy
+hi
